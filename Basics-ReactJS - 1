@@ -1,0 +1,16 @@
+What is CDN?
+
+CDN (Content Delivery Network) - Instant Fruit Stand:
+Imagine you're craving fruit, and you visit a nearby fruit stand that offers a variety of fruits. This stand has apples, oranges, and bananas readily available for you to grab. In this analogy:
+
+The fruit stand represents the CDN.
+• You visit the stand (CDN) and instantly get the fruits (React library) without any preparation or effort.
+• You can start using the fruits (React) immediately without needing to grow or manage the fruits yourself.
+
+Installing React Locally - Growing Your Own Fruit:
+Now, consider growing your own fruit garden in your backyard:
+
+• You decide to grow apples, oranges, and bananas by planting seeds, nurturing the plants, and taking care of them until they bear fruit.
+• This process represents installing React locally. You set up the necessary tools and environment (like npm, Node.js, and a code editor) to create and manage your React application from scratch.
+• While it takes more effort initially to set up the garden (install React locally), you have full control over how the fruits grow, when to harvest them, and which varieties to plant (versions of React, additional libraries, configurations).
+
